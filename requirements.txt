@@ -1,0 +1,13 @@
+pandas
+numpy
+opencv-python
+sklearn
+moviepy
+Pillow
+moviepy
+python-socketio
+tensorflow
+eventlet
+flask
+opencv-python
+keras
